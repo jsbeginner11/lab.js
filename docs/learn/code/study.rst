@@ -144,6 +144,8 @@ Setting timeouts
 
 What we'd like to happen is for the study to move on from the fixation cross after a fixed amount of time, and do likewise in the inter-trial interval. To implement this, we'll need to add a second option to the respective components, the :js:attr:`timeout <options.timeout>`. This sets a time in milliseconds after which a component ends automatically, and cedes control to the subsequent screen (if there is one). With a timeout in place, you should see the study moving to the stimulus at least.
 
+(Can we get an explanation on how to implement timeouts?)
+
 Defining responses
 ~~~~~~~~~~~~~~~~~~
 
