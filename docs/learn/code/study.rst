@@ -1,4 +1,4 @@
-Building a working study
+Building a working study (Note: this tutorial is incomplete and you will not learn to build a working study here)
 ========================
 
 .. raw:: html
